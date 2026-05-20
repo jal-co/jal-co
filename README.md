@@ -27,6 +27,11 @@ Currently focused on:
 - production-minded tools for real problems
 - repos that move from idea → prototype → shipped
 
+## recent activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 ## stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jal-co&show_icons=true&theme=transparent&hide_border=true)
