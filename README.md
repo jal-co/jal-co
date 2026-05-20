@@ -1,4 +1,4 @@
-# hey, i'm justin 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=hi,+im+justin+(jalco))](https://git.io/typing-svg)
 
 I build useful software, ship fast, and turn messy ideas into working products.
 
