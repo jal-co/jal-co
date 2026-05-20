@@ -11,13 +11,15 @@ Currently focused on:
 
 ## toolbox
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Tokscale tokens](https://shieldcn.dev/tokscale/tokens/jal-co.svg?variant=branded)
+
+![TypeScript](https://shieldcn.dev/badge/TypeScript-code-blue.svg?variant=branded&logo=typescript)
+![React](https://shieldcn.dev/badge/React-ui-blue.svg?variant=branded&logo=react)
+![Next.js](https://shieldcn.dev/badge/Next.js-apps-black.svg?variant=branded&logo=nextdotjs)
+![Node.js](https://shieldcn.dev/badge/Node.js-runtime-green.svg?variant=branded&logo=nodedotjs)
+![Python](https://shieldcn.dev/badge/Python-automation-blue.svg?variant=branded&logo=python)
+![Supabase](https://shieldcn.dev/badge/Supabase-backend-green.svg?variant=branded&logo=supabase)
+![Vercel](https://shieldcn.dev/badge/Vercel-deploys-black.svg?variant=branded&logo=vercel)
 
 ## what you'll find here
 
@@ -34,5 +36,5 @@ Currently focused on:
 ## connect
 
 - GitHub: [@jal-co](https://github.com/jal-co)
-- Website: coming soon
+- Website: [justinlevine.me](https://justinlevine.me)
 - Email: add your email here
