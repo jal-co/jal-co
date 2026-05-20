@@ -13,11 +13,6 @@ I'm a tinkerer and lover of software, hardware, and the space where they meet. I
 5. 💪 Opened PR [#13680](https://github.com/OrcaSlicer/OrcaSlicer/pull/13680) in [OrcaSlicer/OrcaSlicer](https://github.com/OrcaSlicer/OrcaSlicer)
 <!--END_SECTION:activity-->
 
-## stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jal-co&show_icons=true&theme=transparent&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jal-co&layout=compact&theme=transparent&hide_border=true)
 
 ## connect
 
