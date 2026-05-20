@@ -18,4 +18,4 @@ I'm a tinkerer and lover of software, hardware, and the space where they meet. I
 
 - GitHub: [@jal-co](https://github.com/jal-co)
 - Website: [justinlevine.me](https://justinlevine.me)
-- Email: add your email here
+- X: [@jalcowastaken](https://x.com/jalcowastaken)
