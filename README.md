@@ -6,11 +6,11 @@ I'm a tinkerer and lover of software, hardware, and the space where they meet. I
 ## recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#95](https://github.com/jal-co/shieldcn/pull/95) in [jal-co/shieldcn](https://github.com/jal-co/shieldcn)
-2. 💪 Opened PR [#95](https://github.com/jal-co/shieldcn/pull/95) in [jal-co/shieldcn](https://github.com/jal-co/shieldcn)
-3. 🎉 Merged PR [#42](https://github.com/0xMassi/webclaw/pull/42) in [0xMassi/webclaw](https://github.com/0xMassi/webclaw)
-4. 🗣 Commented on [#13680](https://github.com/OrcaSlicer/OrcaSlicer/pull/13680#issuecomment-4466416358) in [OrcaSlicer/OrcaSlicer](https://github.com/OrcaSlicer/OrcaSlicer)
-5. 🎉 Merged PR [#13680](https://github.com/OrcaSlicer/OrcaSlicer/pull/13680) in [OrcaSlicer/OrcaSlicer](https://github.com/OrcaSlicer/OrcaSlicer)
+1. 🎉 Merged PR [#96](https://github.com/jal-co/shieldcn/pull/96) in [jal-co/shieldcn](https://github.com/jal-co/shieldcn)
+2. 💪 Opened PR [#96](https://github.com/jal-co/shieldcn/pull/96) in [jal-co/shieldcn](https://github.com/jal-co/shieldcn)
+3. 🎉 Merged PR [#95](https://github.com/jal-co/shieldcn/pull/95) in [jal-co/shieldcn](https://github.com/jal-co/shieldcn)
+4. 💪 Opened PR [#95](https://github.com/jal-co/shieldcn/pull/95) in [jal-co/shieldcn](https://github.com/jal-co/shieldcn)
+5. 🎉 Merged PR [#42](https://github.com/0xMassi/webclaw/pull/42) in [0xMassi/webclaw](https://github.com/0xMassi/webclaw)
 <!--END_SECTION:activity-->
 
 
