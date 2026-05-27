@@ -6,11 +6,11 @@ I'm a tinkerer and lover of software, hardware, and the space where they meet. I
 ## recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#96](https://github.com/jal-co/shieldcn/pull/96) in [jal-co/shieldcn](https://github.com/jal-co/shieldcn)
-2. 💪 Opened PR [#96](https://github.com/jal-co/shieldcn/pull/96) in [jal-co/shieldcn](https://github.com/jal-co/shieldcn)
-3. 🎉 Merged PR [#95](https://github.com/jal-co/shieldcn/pull/95) in [jal-co/shieldcn](https://github.com/jal-co/shieldcn)
-4. 💪 Opened PR [#95](https://github.com/jal-co/shieldcn/pull/95) in [jal-co/shieldcn](https://github.com/jal-co/shieldcn)
-5. 🎉 Merged PR [#42](https://github.com/0xMassi/webclaw/pull/42) in [0xMassi/webclaw](https://github.com/0xMassi/webclaw)
+1. 🎉 Merged PR [#97](https://github.com/jal-co/shieldcn/pull/97) in [jal-co/shieldcn](https://github.com/jal-co/shieldcn)
+2. 💪 Opened PR [#97](https://github.com/jal-co/shieldcn/pull/97) in [jal-co/shieldcn](https://github.com/jal-co/shieldcn)
+3. ❗ Opened issue [#6](https://github.com/maddada/Ghostex/issues/6) in [maddada/Ghostex](https://github.com/maddada/Ghostex)
+4. 🎉 Merged PR [#96](https://github.com/jal-co/shieldcn/pull/96) in [jal-co/shieldcn](https://github.com/jal-co/shieldcn)
+5. 💪 Opened PR [#96](https://github.com/jal-co/shieldcn/pull/96) in [jal-co/shieldcn](https://github.com/jal-co/shieldcn)
 <!--END_SECTION:activity-->
 
 
