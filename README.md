@@ -6,11 +6,11 @@ I'm a tinkerer and lover of software, hardware, and the space where they meet. I
 ## recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#97](https://github.com/jal-co/shieldcn/pull/97) in [jal-co/shieldcn](https://github.com/jal-co/shieldcn)
-2. 💪 Opened PR [#97](https://github.com/jal-co/shieldcn/pull/97) in [jal-co/shieldcn](https://github.com/jal-co/shieldcn)
-3. ❗ Opened issue [#6](https://github.com/maddada/Ghostex/issues/6) in [maddada/Ghostex](https://github.com/maddada/Ghostex)
-4. 🎉 Merged PR [#96](https://github.com/jal-co/shieldcn/pull/96) in [jal-co/shieldcn](https://github.com/jal-co/shieldcn)
-5. 💪 Opened PR [#96](https://github.com/jal-co/shieldcn/pull/96) in [jal-co/shieldcn](https://github.com/jal-co/shieldcn)
+1. 🚀 Published release [v0.1.0](https://github.com/jal-co/create-shadcn-registry/releases/tag/v0.1.0) in [jal-co/create-shadcn-registry](https://github.com/jal-co/create-shadcn-registry)
+2. 🎉 Merged PR [#1](https://github.com/jal-co/create-shadcn-registry/pull/1) in [jal-co/create-shadcn-registry](https://github.com/jal-co/create-shadcn-registry)
+3. 💪 Opened PR [#1](https://github.com/jal-co/create-shadcn-registry/pull/1) in [jal-co/create-shadcn-registry](https://github.com/jal-co/create-shadcn-registry)
+4. 🎉 Merged PR [#100](https://github.com/jal-co/shieldcn/pull/100) in [jal-co/shieldcn](https://github.com/jal-co/shieldcn)
+5. 💪 Opened PR [#100](https://github.com/jal-co/shieldcn/pull/100) in [jal-co/shieldcn](https://github.com/jal-co/shieldcn)
 <!--END_SECTION:activity-->
 
 
