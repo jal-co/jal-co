@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=hi,+im+justin+(jalco))](https://git.io/typing-svg)
 
-I'm a tinkerer and lover of software, hardware, and the space where they meet. I make tools like [shieldcn.dev](https://shieldcn.dev) and [jalco/ui](https://ui.justinlevine.me).
+I'm a tinkerer and lover of software, hardware, and the space where they meet. I make tools like [shieldcn.dev](https://shieldcn.dev), [scn-stack](https://scnstack.sh) and [jalco/ui](https://ui.justinlevine.me).
 
 
 ## recent activity
