@@ -6,11 +6,11 @@ I'm a tinkerer and lover of software, hardware, and the space where they meet. I
 ## recent activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#19](https://github.com/jal-co/scn-stack/pull/19) in [jal-co/scn-stack](https://github.com/jal-co/scn-stack)
-2. 🎉 Merged PR [#18](https://github.com/jal-co/scn-stack/pull/18) in [jal-co/scn-stack](https://github.com/jal-co/scn-stack)
-3. 💪 Opened PR [#18](https://github.com/jal-co/scn-stack/pull/18) in [jal-co/scn-stack](https://github.com/jal-co/scn-stack)
-4. 🎉 Merged PR [#17](https://github.com/jal-co/scn-stack/pull/17) in [jal-co/scn-stack](https://github.com/jal-co/scn-stack)
-5. 💪 Opened PR [#17](https://github.com/jal-co/scn-stack/pull/17) in [jal-co/scn-stack](https://github.com/jal-co/scn-stack)
+1. 🚀 Published release [v0.8.0](https://github.com/jal-co/scn-stack/releases/tag/v0.8.0) in [jal-co/scn-stack](https://github.com/jal-co/scn-stack)
+2. 🎉 Merged PR [#21](https://github.com/jal-co/scn-stack/pull/21) in [jal-co/scn-stack](https://github.com/jal-co/scn-stack)
+3. 💪 Opened PR [#21](https://github.com/jal-co/scn-stack/pull/21) in [jal-co/scn-stack](https://github.com/jal-co/scn-stack)
+4. 🎉 Merged PR [#20](https://github.com/jal-co/scn-stack/pull/20) in [jal-co/scn-stack](https://github.com/jal-co/scn-stack)
+5. 💪 Opened PR [#20](https://github.com/jal-co/scn-stack/pull/20) in [jal-co/scn-stack](https://github.com/jal-co/scn-stack)
 <!--END_SECTION:activity-->
 
 
