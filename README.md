@@ -6,11 +6,11 @@ I'm a tinkerer and lover of software, hardware, and the space where they meet. I
 ## recent activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7](https://github.com/kapishdima/remocn/pull/7) in [kapishdima/remocn](https://github.com/kapishdima/remocn)
-2. 🎉 Merged PR [#40](https://github.com/jal-co/scn-stack/pull/40) in [jal-co/scn-stack](https://github.com/jal-co/scn-stack)
-3. 💪 Opened PR [#40](https://github.com/jal-co/scn-stack/pull/40) in [jal-co/scn-stack](https://github.com/jal-co/scn-stack)
-4. 🎉 Merged PR [#39](https://github.com/jal-co/scn-stack/pull/39) in [jal-co/scn-stack](https://github.com/jal-co/scn-stack)
-5. 💪 Opened PR [#39](https://github.com/jal-co/scn-stack/pull/39) in [jal-co/scn-stack](https://github.com/jal-co/scn-stack)
+1. 🎉 Merged PR [#112](https://github.com/jal-co/shieldcn/pull/112) in [jal-co/shieldcn](https://github.com/jal-co/shieldcn)
+2. 💪 Opened PR [#112](https://github.com/jal-co/shieldcn/pull/112) in [jal-co/shieldcn](https://github.com/jal-co/shieldcn)
+3. 💪 Opened PR [#7](https://github.com/kapishdima/remocn/pull/7) in [kapishdima/remocn](https://github.com/kapishdima/remocn)
+4. 🎉 Merged PR [#40](https://github.com/jal-co/scn-stack/pull/40) in [jal-co/scn-stack](https://github.com/jal-co/scn-stack)
+5. 💪 Opened PR [#40](https://github.com/jal-co/scn-stack/pull/40) in [jal-co/scn-stack](https://github.com/jal-co/scn-stack)
 <!--END_SECTION:activity-->
 
 
