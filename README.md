@@ -6,11 +6,11 @@ I'm a tinkerer and lover of software, hardware, and the space where they meet. I
 ## recent activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#132](https://github.com/jal-co/shieldcn/issues/132) in [jal-co/shieldcn](https://github.com/jal-co/shieldcn)
-2. 💪 Opened PR [#66](https://github.com/vercel/eve/pull/66) in [vercel/eve](https://github.com/vercel/eve)
-3. 💪 Opened PR [#1](https://github.com/jal-co/skills/pull/1) in [jal-co/skills](https://github.com/jal-co/skills)
-4. 🎉 Merged PR [#131](https://github.com/jal-co/shieldcn/pull/131) in [jal-co/shieldcn](https://github.com/jal-co/shieldcn)
-5. 💪 Opened PR [#131](https://github.com/jal-co/shieldcn/pull/131) in [jal-co/shieldcn](https://github.com/jal-co/shieldcn)
+1. 💪 Opened PR [#1441](https://github.com/47ng/nuqs/pull/1441) in [47ng/nuqs](https://github.com/47ng/nuqs)
+2. 🔒 Closed issue [#132](https://github.com/jal-co/shieldcn/issues/132) in [jal-co/shieldcn](https://github.com/jal-co/shieldcn)
+3. 💪 Opened PR [#66](https://github.com/vercel/eve/pull/66) in [vercel/eve](https://github.com/vercel/eve)
+4. 💪 Opened PR [#1](https://github.com/jal-co/skills/pull/1) in [jal-co/skills](https://github.com/jal-co/skills)
+5. 🎉 Merged PR [#131](https://github.com/jal-co/shieldcn/pull/131) in [jal-co/shieldcn](https://github.com/jal-co/shieldcn)
 <!--END_SECTION:activity-->
 
 
