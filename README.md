@@ -6,11 +6,11 @@ I'm a tinkerer and lover of software, hardware, and the space where they meet. I
 ## recent activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#114](https://github.com/escoffier-labs/brigade/pull/114) in [escoffier-labs/brigade](https://github.com/escoffier-labs/brigade)
-2. 🎉 Merged PR [#163](https://github.com/jal-co/shieldcn/pull/163) in [jal-co/shieldcn](https://github.com/jal-co/shieldcn)
-3. 💪 Opened PR [#163](https://github.com/jal-co/shieldcn/pull/163) in [jal-co/shieldcn](https://github.com/jal-co/shieldcn)
-4. 🔒 Closed issue [#1582](https://github.com/1Password/for-open-source/issues/1582) in [1Password/for-open-source](https://github.com/1Password/for-open-source)
-5. 🎉 Merged PR [#161](https://github.com/jal-co/shieldcn/pull/161) in [jal-co/shieldcn](https://github.com/jal-co/shieldcn)
+1. 🎉 Merged PR [#4](https://github.com/jal-co/agent-plugin-sdk/pull/4) in [jal-co/agent-plugin-sdk](https://github.com/jal-co/agent-plugin-sdk)
+2. 💪 Opened PR [#4](https://github.com/jal-co/agent-plugin-sdk/pull/4) in [jal-co/agent-plugin-sdk](https://github.com/jal-co/agent-plugin-sdk)
+3. 💪 Opened PR [#114](https://github.com/escoffier-labs/brigade/pull/114) in [escoffier-labs/brigade](https://github.com/escoffier-labs/brigade)
+4. 🎉 Merged PR [#163](https://github.com/jal-co/shieldcn/pull/163) in [jal-co/shieldcn](https://github.com/jal-co/shieldcn)
+5. 💪 Opened PR [#163](https://github.com/jal-co/shieldcn/pull/163) in [jal-co/shieldcn](https://github.com/jal-co/shieldcn)
 <!--END_SECTION:activity-->
 
 
