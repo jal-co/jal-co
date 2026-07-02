@@ -6,11 +6,11 @@ I'm a tinkerer and lover of software, hardware, and the space where they meet. I
 ## recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#173](https://github.com/jal-co/shieldcn/pull/173) in [jal-co/shieldcn](https://github.com/jal-co/shieldcn)
-2. 💪 Opened PR [#173](https://github.com/jal-co/shieldcn/pull/173) in [jal-co/shieldcn](https://github.com/jal-co/shieldcn)
-3. 🎉 Merged PR [#172](https://github.com/jal-co/shieldcn/pull/172) in [jal-co/shieldcn](https://github.com/jal-co/shieldcn)
-4. 💪 Opened PR [#172](https://github.com/jal-co/shieldcn/pull/172) in [jal-co/shieldcn](https://github.com/jal-co/shieldcn)
-5. 🎉 Merged PR [#164](https://github.com/jal-co/shieldcn/pull/164) in [jal-co/shieldcn](https://github.com/jal-co/shieldcn)
+1. 🎉 Merged PR [#174](https://github.com/jal-co/shieldcn/pull/174) in [jal-co/shieldcn](https://github.com/jal-co/shieldcn)
+2. 💪 Opened PR [#174](https://github.com/jal-co/shieldcn/pull/174) in [jal-co/shieldcn](https://github.com/jal-co/shieldcn)
+3. 🎉 Merged PR [#173](https://github.com/jal-co/shieldcn/pull/173) in [jal-co/shieldcn](https://github.com/jal-co/shieldcn)
+4. 💪 Opened PR [#173](https://github.com/jal-co/shieldcn/pull/173) in [jal-co/shieldcn](https://github.com/jal-co/shieldcn)
+5. 🎉 Merged PR [#172](https://github.com/jal-co/shieldcn/pull/172) in [jal-co/shieldcn](https://github.com/jal-co/shieldcn)
 <!--END_SECTION:activity-->
 
 
