@@ -6,11 +6,11 @@ I'm a tinkerer and lover of software, hardware, and the space where they meet. I
 ## recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/QuadDepo/env.style/pull/12) in [QuadDepo/env.style](https://github.com/QuadDepo/env.style)
-2. 🎉 Merged PR [#227](https://github.com/jal-co/shieldcn/pull/227) in [jal-co/shieldcn](https://github.com/jal-co/shieldcn)
-3. 💪 Opened PR [#227](https://github.com/jal-co/shieldcn/pull/227) in [jal-co/shieldcn](https://github.com/jal-co/shieldcn)
-4. 🎉 Merged PR [#224](https://github.com/jal-co/shieldcn/pull/224) in [jal-co/shieldcn](https://github.com/jal-co/shieldcn)
-5. 💪 Opened PR [#224](https://github.com/jal-co/shieldcn/pull/224) in [jal-co/shieldcn](https://github.com/jal-co/shieldcn)
+1. 🎉 Merged PR [#1](https://github.com/Modulora/cli/pull/1) in [Modulora/cli](https://github.com/Modulora/cli)
+2. 🎉 Merged PR [#1](https://github.com/Modulora/spec/pull/1) in [Modulora/spec](https://github.com/Modulora/spec)
+3. 🎉 Merged PR [#1](https://github.com/Modulora/.github/pull/1) in [Modulora/.github](https://github.com/Modulora/.github)
+4. 🎉 Merged PR [#1](https://github.com/Modulora/modulora/pull/1) in [Modulora/modulora](https://github.com/Modulora/modulora)
+5. 💪 Opened PR [#1](https://github.com/Modulora/cli/pull/1) in [Modulora/cli](https://github.com/Modulora/cli)
 <!--END_SECTION:activity-->
 
 
