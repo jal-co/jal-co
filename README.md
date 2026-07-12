@@ -6,11 +6,11 @@ I'm a tinkerer and lover of software, hardware, and the space where they meet. I
 ## recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#228](https://github.com/jal-co/shieldcn/issues/228#issuecomment-4949514081) in [jal-co/shieldcn](https://github.com/jal-co/shieldcn)
-2. ❗ Opened issue [#7](https://github.com/Modulora/spec/issues/7) in [Modulora/spec](https://github.com/Modulora/spec)
-3. ❗ Opened issue [#34](https://github.com/Modulora/modulora/issues/34) in [Modulora/modulora](https://github.com/Modulora/modulora)
-4. ❗ Opened issue [#33](https://github.com/Modulora/modulora/issues/33) in [Modulora/modulora](https://github.com/Modulora/modulora)
-5. ❗ Opened issue [#32](https://github.com/Modulora/modulora/issues/32) in [Modulora/modulora](https://github.com/Modulora/modulora)
+1. ❗ Opened issue [#39](https://github.com/Modulora/modulora/issues/39) in [Modulora/modulora](https://github.com/Modulora/modulora)
+2. ❗ Opened issue [#38](https://github.com/Modulora/modulora/issues/38) in [Modulora/modulora](https://github.com/Modulora/modulora)
+3. ❗ Opened issue [#37](https://github.com/Modulora/modulora/issues/37) in [Modulora/modulora](https://github.com/Modulora/modulora)
+4. ❗ Opened issue [#36](https://github.com/Modulora/modulora/issues/36) in [Modulora/modulora](https://github.com/Modulora/modulora)
+5. ❗ Opened issue [#35](https://github.com/Modulora/modulora/issues/35) in [Modulora/modulora](https://github.com/Modulora/modulora)
 <!--END_SECTION:activity-->
 
 
