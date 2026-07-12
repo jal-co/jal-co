@@ -6,11 +6,11 @@ I'm a tinkerer and lover of software, hardware, and the space where they meet. I
 ## recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8](https://github.com/Modulora/cli/issues/8#issuecomment-4951905933) in [Modulora/cli](https://github.com/Modulora/cli)
-2. 🗣 Commented on [#9](https://github.com/Modulora/cli/issues/9#issuecomment-4951898312) in [Modulora/cli](https://github.com/Modulora/cli)
-3. 🗣 Commented on [#6](https://github.com/Modulora/cli/issues/6#issuecomment-4951898252) in [Modulora/cli](https://github.com/Modulora/cli)
-4. 🔒 Closed issue [#6](https://github.com/Modulora/cli/issues/6) in [Modulora/cli](https://github.com/Modulora/cli)
-5. ❗ Opened issue [#50](https://github.com/Modulora/modulora/issues/50) in [Modulora/modulora](https://github.com/Modulora/modulora)
+1. 🗣 Commented on [#32](https://github.com/Modulora/modulora/issues/32#issuecomment-4952137585) in [Modulora/modulora](https://github.com/Modulora/modulora)
+2. 🗣 Commented on [#8](https://github.com/Modulora/cli/issues/8#issuecomment-4951905933) in [Modulora/cli](https://github.com/Modulora/cli)
+3. 🗣 Commented on [#9](https://github.com/Modulora/cli/issues/9#issuecomment-4951898312) in [Modulora/cli](https://github.com/Modulora/cli)
+4. 🗣 Commented on [#6](https://github.com/Modulora/cli/issues/6#issuecomment-4951898252) in [Modulora/cli](https://github.com/Modulora/cli)
+5. 🔒 Closed issue [#6](https://github.com/Modulora/cli/issues/6) in [Modulora/cli](https://github.com/Modulora/cli)
 <!--END_SECTION:activity-->
 
 
