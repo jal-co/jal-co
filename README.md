@@ -6,11 +6,11 @@ I'm a tinkerer and lover of software, hardware, and the space where they meet. I
 ## recent activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#33](https://github.com/Modulora/modulora/issues/33) in [Modulora/modulora](https://github.com/Modulora/modulora)
-2. ❗ Opened issue [#32](https://github.com/Modulora/modulora/issues/32) in [Modulora/modulora](https://github.com/Modulora/modulora)
-3. ❗ Opened issue [#31](https://github.com/Modulora/modulora/issues/31) in [Modulora/modulora](https://github.com/Modulora/modulora)
-4. ❗ Opened issue [#30](https://github.com/Modulora/modulora/issues/30) in [Modulora/modulora](https://github.com/Modulora/modulora)
-5. ❗ Opened issue [#7](https://github.com/Modulora/cli/issues/7) in [Modulora/cli](https://github.com/Modulora/cli)
+1. ❗ Opened issue [#7](https://github.com/Modulora/spec/issues/7) in [Modulora/spec](https://github.com/Modulora/spec)
+2. ❗ Opened issue [#34](https://github.com/Modulora/modulora/issues/34) in [Modulora/modulora](https://github.com/Modulora/modulora)
+3. ❗ Opened issue [#33](https://github.com/Modulora/modulora/issues/33) in [Modulora/modulora](https://github.com/Modulora/modulora)
+4. ❗ Opened issue [#32](https://github.com/Modulora/modulora/issues/32) in [Modulora/modulora](https://github.com/Modulora/modulora)
+5. ❗ Opened issue [#31](https://github.com/Modulora/modulora/issues/31) in [Modulora/modulora](https://github.com/Modulora/modulora)
 <!--END_SECTION:activity-->
 
 
