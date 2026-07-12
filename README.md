@@ -6,11 +6,11 @@ I'm a tinkerer and lover of software, hardware, and the space where they meet. I
 ## recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#32](https://github.com/Modulora/modulora/issues/32#issuecomment-4951567907) in [Modulora/modulora](https://github.com/Modulora/modulora)
-2. 🗣 Commented on [#46](https://github.com/Modulora/modulora/issues/46#issuecomment-4951567870) in [Modulora/modulora](https://github.com/Modulora/modulora)
-3. 🗣 Commented on [#46](https://github.com/Modulora/modulora/issues/46#issuecomment-4951451916) in [Modulora/modulora](https://github.com/Modulora/modulora)
-4. 🔒 Closed issue [#37](https://github.com/Modulora/modulora/issues/37) in [Modulora/modulora](https://github.com/Modulora/modulora)
-5. 🔒 Closed issue [#34](https://github.com/Modulora/modulora/issues/34) in [Modulora/modulora](https://github.com/Modulora/modulora)
+1. 🗣 Commented on [#974](https://github.com/robinebers/openusage/issues/974#issuecomment-4951773784) in [robinebers/openusage](https://github.com/robinebers/openusage)
+2. 💪 Opened PR [#975](https://github.com/robinebers/openusage/pull/975) in [robinebers/openusage](https://github.com/robinebers/openusage)
+3. ❗ Opened issue [#974](https://github.com/robinebers/openusage/issues/974) in [robinebers/openusage](https://github.com/robinebers/openusage)
+4. 🗣 Commented on [#32](https://github.com/Modulora/modulora/issues/32#issuecomment-4951567907) in [Modulora/modulora](https://github.com/Modulora/modulora)
+5. 🗣 Commented on [#46](https://github.com/Modulora/modulora/issues/46#issuecomment-4951567870) in [Modulora/modulora](https://github.com/Modulora/modulora)
 <!--END_SECTION:activity-->
 
 
