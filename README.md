@@ -6,11 +6,11 @@ I'm a tinkerer and lover of software, hardware, and the space where they meet. I
 ## recent activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#5](https://github.com/Modulora/spec/issues/5) in [Modulora/spec](https://github.com/Modulora/spec)
-2. 🎉 Merged PR [#10](https://github.com/Modulora/spec/pull/10) in [Modulora/spec](https://github.com/Modulora/spec)
-3. 💪 Opened PR [#10](https://github.com/Modulora/spec/pull/10) in [Modulora/spec](https://github.com/Modulora/spec)
-4. 🎉 Merged PR [#9](https://github.com/Modulora/spec/pull/9) in [Modulora/spec](https://github.com/Modulora/spec)
-5. 🔒 Closed issue [#6](https://github.com/Modulora/spec/issues/6) in [Modulora/spec](https://github.com/Modulora/spec)
+1. ℹ️ Labeled issue [#67](https://github.com/Modulora/modulora/issues/67) in [Modulora/modulora](https://github.com/Modulora/modulora)
+2. ❗ Opened issue [#67](https://github.com/Modulora/modulora/issues/67) in [Modulora/modulora](https://github.com/Modulora/modulora)
+3. 🔒 Closed issue [#5](https://github.com/Modulora/spec/issues/5) in [Modulora/spec](https://github.com/Modulora/spec)
+4. 🎉 Merged PR [#10](https://github.com/Modulora/spec/pull/10) in [Modulora/spec](https://github.com/Modulora/spec)
+5. 💪 Opened PR [#10](https://github.com/Modulora/spec/pull/10) in [Modulora/spec](https://github.com/Modulora/spec)
 <!--END_SECTION:activity-->
 
 
