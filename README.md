@@ -6,11 +6,11 @@ I'm a tinkerer and lover of software, hardware, and the space where they meet. I
 ## recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#55](https://github.com/Modulora/modulora/issues/55#issuecomment-4958637571) in [Modulora/modulora](https://github.com/Modulora/modulora)
-2. 🔒 Closed issue [#55](https://github.com/Modulora/modulora/issues/55) in [Modulora/modulora](https://github.com/Modulora/modulora)
-3. ❗ Opened issue [#66](https://github.com/Modulora/modulora/issues/66) in [Modulora/modulora](https://github.com/Modulora/modulora)
-4. ❗ Opened issue [#65](https://github.com/Modulora/modulora/issues/65) in [Modulora/modulora](https://github.com/Modulora/modulora)
-5. 💪 Opened PR [#1384](https://github.com/Domain-Connect/Templates/pull/1384) in [Domain-Connect/Templates](https://github.com/Domain-Connect/Templates)
+1. 🔒 Closed issue [#7](https://github.com/Modulora/spec/issues/7) in [Modulora/spec](https://github.com/Modulora/spec)
+2. 🎉 Merged PR [#8](https://github.com/Modulora/spec/pull/8) in [Modulora/spec](https://github.com/Modulora/spec)
+3. 💪 Opened PR [#8](https://github.com/Modulora/spec/pull/8) in [Modulora/spec](https://github.com/Modulora/spec)
+4. 🗣 Commented on [#54](https://github.com/Modulora/modulora/issues/54#issuecomment-4959388145) in [Modulora/modulora](https://github.com/Modulora/modulora)
+5. 🔒 Closed issue [#54](https://github.com/Modulora/modulora/issues/54) in [Modulora/modulora](https://github.com/Modulora/modulora)
 <!--END_SECTION:activity-->
 
 
