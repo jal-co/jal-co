@@ -6,11 +6,11 @@ I'm a tinkerer and lover of software, hardware, and the space where they meet. I
 ## recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#77](https://github.com/Modulora/modulora/pull/77#issuecomment-4972938725) in [Modulora/modulora](https://github.com/Modulora/modulora)
-2. 🎉 Merged PR [#83](https://github.com/Modulora/modulora/pull/83) in [Modulora/modulora](https://github.com/Modulora/modulora)
-3. 💪 Opened PR [#83](https://github.com/Modulora/modulora/pull/83) in [Modulora/modulora](https://github.com/Modulora/modulora)
-4. 🎉 Merged PR [#82](https://github.com/Modulora/modulora/pull/82) in [Modulora/modulora](https://github.com/Modulora/modulora)
-5. 💪 Opened PR [#82](https://github.com/Modulora/modulora/pull/82) in [Modulora/modulora](https://github.com/Modulora/modulora)
+1. 🗣 Commented on [#69](https://github.com/Modulora/modulora/issues/69#issuecomment-4973417254) in [Modulora/modulora](https://github.com/Modulora/modulora)
+2. 🔒 Closed issue [#69](https://github.com/Modulora/modulora/issues/69) in [Modulora/modulora](https://github.com/Modulora/modulora)
+3. 🎉 Merged PR [#85](https://github.com/Modulora/modulora/pull/85) in [Modulora/modulora](https://github.com/Modulora/modulora)
+4. 💪 Opened PR [#85](https://github.com/Modulora/modulora/pull/85) in [Modulora/modulora](https://github.com/Modulora/modulora)
+5. 🗣 Commented on [#67](https://github.com/Modulora/modulora/issues/67#issuecomment-4973250351) in [Modulora/modulora](https://github.com/Modulora/modulora)
 <!--END_SECTION:activity-->
 
 
