@@ -6,11 +6,11 @@ I'm a tinkerer and lover of software, hardware, and the space where they meet. I
 ## recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1384](https://github.com/Domain-Connect/Templates/pull/1384) in [Domain-Connect/Templates](https://github.com/Domain-Connect/Templates)
-2. 🎉 Merged PR [#89](https://github.com/Modulora/modulora/pull/89) in [Modulora/modulora](https://github.com/Modulora/modulora)
-3. 💪 Opened PR [#89](https://github.com/Modulora/modulora/pull/89) in [Modulora/modulora](https://github.com/Modulora/modulora)
-4. 🎉 Merged PR [#88](https://github.com/Modulora/modulora/pull/88) in [Modulora/modulora](https://github.com/Modulora/modulora)
-5. 💪 Opened PR [#88](https://github.com/Modulora/modulora/pull/88) in [Modulora/modulora](https://github.com/Modulora/modulora)
+1. 🎉 Merged PR [#92](https://github.com/Modulora/modulora/pull/92) in [Modulora/modulora](https://github.com/Modulora/modulora)
+2. 💪 Opened PR [#92](https://github.com/Modulora/modulora/pull/92) in [Modulora/modulora](https://github.com/Modulora/modulora)
+3. 🎉 Merged PR [#91](https://github.com/Modulora/modulora/pull/91) in [Modulora/modulora](https://github.com/Modulora/modulora)
+4. 💪 Opened PR [#91](https://github.com/Modulora/modulora/pull/91) in [Modulora/modulora](https://github.com/Modulora/modulora)
+5. 🎉 Merged PR [#90](https://github.com/Modulora/modulora/pull/90) in [Modulora/modulora](https://github.com/Modulora/modulora)
 <!--END_SECTION:activity-->
 
 
