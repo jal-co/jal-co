@@ -6,11 +6,11 @@ I'm a tinkerer and lover of software, hardware, and the space where they meet. I
 ## recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#236](https://github.com/jal-co/shieldcn/pull/236) in [jal-co/shieldcn](https://github.com/jal-co/shieldcn)
-2. 💪 Opened PR [#236](https://github.com/jal-co/shieldcn/pull/236) in [jal-co/shieldcn](https://github.com/jal-co/shieldcn)
-3. ❗ Opened issue [#98](https://github.com/haydenbleasel/blume/issues/98) in [haydenbleasel/blume](https://github.com/haydenbleasel/blume)
-4. 🎉 Merged PR [#235](https://github.com/jal-co/shieldcn/pull/235) in [jal-co/shieldcn](https://github.com/jal-co/shieldcn)
-5. 💪 Opened PR [#235](https://github.com/jal-co/shieldcn/pull/235) in [jal-co/shieldcn](https://github.com/jal-co/shieldcn)
+1. 🗣 Commented on [#98](https://github.com/haydenbleasel/blume/issues/98#issuecomment-5017461555) in [haydenbleasel/blume](https://github.com/haydenbleasel/blume)
+2. 🎉 Merged PR [#236](https://github.com/jal-co/shieldcn/pull/236) in [jal-co/shieldcn](https://github.com/jal-co/shieldcn)
+3. 💪 Opened PR [#236](https://github.com/jal-co/shieldcn/pull/236) in [jal-co/shieldcn](https://github.com/jal-co/shieldcn)
+4. ❗ Opened issue [#98](https://github.com/haydenbleasel/blume/issues/98) in [haydenbleasel/blume](https://github.com/haydenbleasel/blume)
+5. 🎉 Merged PR [#235](https://github.com/jal-co/shieldcn/pull/235) in [jal-co/shieldcn](https://github.com/jal-co/shieldcn)
 <!--END_SECTION:activity-->
 
 
