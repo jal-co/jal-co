@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=hi,+im+justin+(jalco))](https://git.io/typing-svg)
+## product engineer @ [mastra](mastra.ai)
 
 I'm a tinkerer and lover of software, hardware, and the space where they meet. I've made tools like [shieldcn.dev](https://shieldcn.dev) and [jalco/ui](https://ui.justinlevine.me).
 
