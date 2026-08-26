@@ -1,4 +1,4 @@
-## product engineer @ [mastra](mastra.ai)
+## product engineer @ [mastra](https://mastra.ai)
 
 I'm a tinkerer and lover of software, hardware, and the space where they meet. I've made tools like [shieldcn.dev](https://shieldcn.dev) and [jalco/ui](https://ui.justinlevine.me).
 
