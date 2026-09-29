@@ -1,8 +1,12 @@
-## product engineer @ [mastra](https://mastra.ai)
+product engineer @ [mastra](https://mastra.ai)
 
-I'm a tinkerer and lover of software, hardware, and the space where they meet. I've made tools like [shieldcn.dev](https://shieldcn.dev) and [jalco/ui](https://ui.justinlevine.me).
+creator of [neon ui](ui.neon.com), [shieldcn](shieldcn.dev), and _many_ more...
 
-## connect
+all projects on my [website](https://justinlevine.me)
+
+
+
+### connect
 
 - GitHub: [@jal-co](https://github.com/jal-co)
 - Website: [justinlevine.me](https://justinlevine.me)
